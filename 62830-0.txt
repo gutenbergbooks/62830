@@ -1,4 +1,5 @@
-﻿Project Gutenberg's The Young Section-Hand, by Burton Egbert Stevenson
+﻿The Project Gutenberg EBook of The Young Section-Hand, by 
+Burton Egbert Stevenson and L. J. Bridgman
 
 This eBook is for the use of anyone anywhere in the United States and most
 other parts of the world at no cost and with almost no restrictions
@@ -10,8 +11,7 @@ to check the laws of the country where you are located before using this ebook.
 Title: The Young Section-Hand
 
 Author: Burton Egbert Stevenson
-
-Illustrator: L. J. Bridgman
+        L. J. Bridgman
 
 Release Date: August 3, 2020 [EBook #62830]
 
@@ -6755,7 +6755,8 @@ children in “Loyalty Island.”
 
 
 
-End of Project Gutenberg's The Young Section-Hand, by Burton Egbert Stevenson
+End of the Project Gutenberg EBook of The Young Section-Hand, by 
+Burton Egbert Stevenson and L. J. Bridgman
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE YOUNG SECTION-HAND ***
 
